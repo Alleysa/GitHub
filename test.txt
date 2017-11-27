@@ -1,1 +1,2 @@
-2.hello world��
+1.修改过的字体编码
+2.helloworld
